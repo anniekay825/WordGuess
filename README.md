@@ -1,1 +1,3 @@
-# WordGuess
+# Connector WordGuess
+
+![Game of Thrones](GOTtitle.jpg)
