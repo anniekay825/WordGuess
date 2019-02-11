@@ -16,7 +16,9 @@ Once the game is solve, the player has the option to play again by indicating wi
 2. run: node index.js
 3. play the game!
 
-(snip1.png) (snip2.png)
+![Snippet1](snip1.png)
+
+![Snippet2](snip2.png)
 
 ### Acknowledgement
 Super helpful sites on google and github on understanding how to generate different puzzles and to streamline game.  Too many sites to acknowledge - and i'm appreciative on how well the readme/documentation files were done.  
