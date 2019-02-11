@@ -16,8 +16,12 @@ Once the game is solve, the player has the option to play again by indicating wi
 2. run: node index.js
 3. play the game!
 
-[Image of game](images/snip1.png)
+![Image of game](images/snip1.PNG)   
+![Game Example](images/snip2.PNG)   
+![Game Example](images/snip3.PNG) 
 
+This was a cool way to select if you want to play again rather than the traditional Y or N.  Thank you GitHub community!
+![Play Again](images/snip4.PNG)
 
 ### Acknowledgement
 Super helpful sites on google and github on understanding how to generate different puzzles and to streamline game.  Too many sites to acknowledge - and i'm appreciative on how well the readme/documentation files were done. 
