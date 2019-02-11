@@ -2,7 +2,7 @@ var inquirer = require("inquirer");
 var Word = require("./word");
 
 var alphabet = 'abcdefghijklmnopqrstuvwxyz';
-var wordArray = ['you know nothing jon snow', 'jessie the cowgirl', 'cersei is mad', 'espn sportscenter', 'game of thrones', 'winter is coming', 'mother of dragons', 'khalissi is badass'];
+var wordArray = ['you know nothing jon snow', 'cersei lannister', 'game of thrones', 'winter is coming', 'mother of dragons', 'khalissi', 'winterfell', 'daenerys targaryen', 'samuel tarly', 'iron throne', 'arya stark', 'sansa stark', 'white walkers', 'tyrion lannister', 'the hound'];
 ;
 
 var selectedWord;
