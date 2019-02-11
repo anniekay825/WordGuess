@@ -17,8 +17,7 @@ Once the game is solve, the player has the option to play again by indicating wi
 3. play the game!
 
 ![Image of game](images/snip1.png)
-!(images/snip1.png)   !(images/snip2.png)
 
 
 ### Acknowledgement
-Super helpful sites on google and github on understanding how to generate different puzzles and to streamline game.  Too many sites to acknowledge - and i'm appreciative on how well the readme/documentation files were done.  
+Super helpful sites on google and github on understanding how to generate different puzzles and to streamline game.  Too many sites to acknowledge - and i'm appreciative on how well the readme/documentation files were done. 
