@@ -16,9 +16,9 @@ Once the game is solve, the player has the option to play again by indicating wi
 2. run: node index.js
 3. play the game!
 
-![Snippet 1](snip1.png)
+![Snippet 1](/snip1.png)
 
-![Snippet 2](snip2.png)
+![Snippet 2](/snip2.png)
 
 
 ### Acknowledgement
